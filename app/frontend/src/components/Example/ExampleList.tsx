@@ -4,7 +4,7 @@ import styles from "./Example.module.css";
 
 const DEFAULT_EXAMPLES: string[] = [
     "Where is the talk about pytest?",
-    "Do I need to wear a mask at Pycon?",
+    "Do I need to wear a mask at PyCon?",
     "Which talks are focused on Python typing?"
 ];
 
